@@ -117,5 +117,3 @@ For questions or collaborations:
 - GitHub: [Smiti02](https://github.com/Smiti02)
 - Email: smitiraniharipal@gmail.com
 - LinkedIn: https://www.linkedin.com/in/smitirani-haripal-18a331282/
-
-This README will make your project look professional and help others understand/use your work effectively! 🚀
